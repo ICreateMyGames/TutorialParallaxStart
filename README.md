@@ -9,10 +9,10 @@ The tutorial was created with Unity 2020.1.6f1.
 ## Getting Started
 
 1. Select Code > Download ZIP
-2. Unzip .zip file into your project folder
+2. Unzip folder Tutorial_Parallax_Start into your project folder
 3. Open Unity Hub > Projects > ADD
 4. Select the path from 2.
-5. Select your Unity Version and open the project
+5. Select your Unity version and open the project
 
 ## Contact
 
